@@ -9,6 +9,18 @@ public class Main {
         multiline comment
          */
 
+        int length = 4;
+        int width = 6;
+        int area;
+
+        area = length + width;
+        System.out.println("Length: " + length);
+        System.out.println("Width: " + width);
+        System.out.println(area);
+
 
     }
+
+
 }
+
